@@ -1,0 +1,8 @@
+from colorama import Fore
+
+print(Fore.RED + "Hello Wolrd")
+print(Fore.GREEN + "Hello World")
+print(Fore.BLUE + "Hello World")
+
+print(Fore.YELLOW + "Hello world in primary colors")
+print(Fore.YELLOW + "Testing colorama")
